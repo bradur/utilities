@@ -18,7 +18,7 @@ echo Minimizor is already running!
 goto END
 :Process_NotFound
 echo Minimizor not running, starting it up...
-start /b "" "D:\games\Enemy Territory\Minimizor.exe"
+start /b "" "Minimizor.exe"
 goto END
 :END
 
@@ -33,7 +33,7 @@ echo TZAC is already running!
 goto END
 :Process_NotFound
 echo TZAC not running, starting it up...
-start /b "" "D:\games\Enemy Territory\TZAC ANTICHEAT\TZAC-ET.exe"
+start /b "" "TZAC ANTICHEAT\TZAC-ET.exe"
 goto END
 :END
 
